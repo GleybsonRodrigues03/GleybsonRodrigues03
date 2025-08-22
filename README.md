@@ -18,7 +18,7 @@
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="">
         <img 
             alt="Email" 
             title="Email para Contato" 
