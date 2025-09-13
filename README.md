@@ -59,7 +59,7 @@
 <img 
       align="left" 
       alt="HTML"
-      title="HTML" 
+      title="PYTHON" 
       width="30px" 
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -69,7 +69,7 @@
 <img 
       align="left" 
       alt="HTML"
-      title="HTML" 
+      title="MYSQL" 
       width="30px" 
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -87,7 +87,7 @@
 <img 
       align="left" 
       alt="HTML"
-      title="HTML" 
+      title="CSS" 
       width="30px" 
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -96,7 +96,7 @@
 <img 
       align="left" 
       alt="HTML"
-      title="HTML" 
+      title="GITHUB" 
       width="30px" 
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
