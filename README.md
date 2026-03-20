@@ -2,7 +2,7 @@
 
 **`Futuro Dev`**
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (2st Semester by UNINASSAU), apaixonado por tecnologia e inovação.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3st Semester by UNINASSAU), apaixonado por tecnologia e inovação.
 
 💡 Curioso por entender como a tecnologia transforma o mundo.
 
