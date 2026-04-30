@@ -59,10 +59,10 @@
 <img 
       align="left" 
       alt="HTML"
-      title="PYTHON" 
+      title="SPRING" 
       width="30px" 
       style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
           
 
@@ -78,10 +78,10 @@
 <img 
       align="left" 
       alt="HTML"
-      title="HTML" 
+      title="POSTMAN" 
       width="30px" 
       style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
 <img 
