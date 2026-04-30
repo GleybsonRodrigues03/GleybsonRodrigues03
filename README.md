@@ -87,10 +87,10 @@
 <img 
       align="left" 
       alt="HTML"
-      title="CSS" 
+      title="JSON" 
       width="30px" 
       style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
 />
 
 <img 
