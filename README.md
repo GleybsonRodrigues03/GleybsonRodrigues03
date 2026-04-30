@@ -22,7 +22,7 @@
         <img 
             alt="Email" 
             title="Email para Contato" 
-            src="https://custom-icon-badges.demolab.com/badge/-gleybsonrodrigues@outlook.com-red?style=for-the-badge&logo=mention&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-rodriguesgleybson970@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a> 
     <a href="">
